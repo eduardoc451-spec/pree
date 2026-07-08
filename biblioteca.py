@@ -6,7 +6,7 @@ RAIZ_BIBLIOTECA = "biblioteca"
 
 # Lista de dimensões/pastas principais oficiais do projeto
 PASTAS_PRINCIPAIS = [
-    "i-fiscal",
+    "i-fiscal foda-se",
     "i-plan",
     "i-educ",
     "i-saúde",
