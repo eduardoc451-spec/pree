@@ -1,0 +1,51 @@
+{
+    "Gestão e Governança": {
+        "acoes": [
+            {
+                "nome": "1001 Aquisição de Materiais Permanentes",
+                "unidade": "Não Mensurável",
+                "C": 0.0,
+                "D": 0.0,
+                "F": 0.0,
+                "G": 0.0
+            },
+            {
+                "nome": "2002 Conservação e Funcionamento dos Serviços Administrativos",
+                "unidade": "Não Mensurável",
+                "C": 0.0,
+                "D": 0.0,
+                "F": 0.0,
+                "G": 0.0
+            },
+            {
+                "nome": "2004 Contribuição a Consórcios",
+                "unidade": "Unidade / Mensurável",
+                "C": 1.0,
+                "D": 1.0,
+                "F": 200000.0,
+                "G": 195600.0
+            }
+        ]
+    },
+    "Cidade Solidária": {
+        "acoes": [
+            {
+                "nome": "1001 Aquisição de Materiais Permanentes",
+                "unidade": "Não Mensurável",
+                "C": 0.0,
+                "D": 0.0,
+                "F": 0.0,
+                "G": 0.0
+            }
+        ]
+    },
+    "Gestão do Jurídico e da Cidadania": {
+        "acoes": []
+    },
+    "Desenvolvimento Econômico": {
+        "acoes": []
+    },
+    "Gestão orçamentária, administrativa e fiscal": {
+        "acoes": []
+    }
+}
